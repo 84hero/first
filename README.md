@@ -5,3 +5,9 @@
 ##H2
 
 ###H3
+
+``php
+<?php
+var_dump(time());
+?>
+``
