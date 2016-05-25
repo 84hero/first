@@ -6,8 +6,8 @@
 
 ###H3
 
-``php
+```php
 <?php
 var_dump(time());
 ?>
-``
+```
