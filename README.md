@@ -11,3 +11,10 @@
 var_dump(time());
 ?>
 ```
+
+```javascript
+var a = 123;
+var b = null;
+
+console.log(a,b);
+```
